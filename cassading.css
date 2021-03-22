@@ -12,6 +12,15 @@
 #content {
     background: #555;
     color: white;
+    width: 596px;
+    float: left;
+    padding: 1em;
+  }
+#sidebar {
+    background: #444;
+    color: white;
+    width: 300px;
+    float: right;
     padding: 1em;
   }
 #footer{
