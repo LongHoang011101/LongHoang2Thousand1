@@ -14,13 +14,6 @@
     color: white;
     padding: 1em;
   }
-#sidebar {
-    background: #444;
-    color: white;
-    width: 300px;
-    float: right;
-    padding: 1em;
-  }
 #footer{
     clear:both;
     background: #666;
